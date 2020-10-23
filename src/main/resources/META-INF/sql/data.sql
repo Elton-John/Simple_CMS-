@@ -1,0 +1,3 @@
+INSERT INTO Author (firstName, lastName) VALUES ('Elton', 'John')
+INSERT INTO Article (author_id, title, content) VALUES (1,'Nowosc dnia!', 'Cras ut orci nunc. aend metus. Nunc mollis sit amet dui vitae vulputate. Nunc hendrerit nibh eget commodo sodaleipectus vitae urna. Duis nec semper tellus.'),(1,'Nowe zasady w przedszkolach!', 'Cras ut orci nunc. Sed eget dapibus s posuere arcuiamtus vitae urna. Duis nec semper tellus.');
+INSERT  INTO Category (name, description) values ('polityka', 'co nowego wymyślił rząd'),('kultura', 'co jest grane');
